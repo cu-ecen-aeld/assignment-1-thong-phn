@@ -1,4 +1,4 @@
-![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+![example event parameter](https://github.com/cu-ecen-aeld/assignment-1-thong-phn/blob/master/.github/workflows/github-actions.yml/badge.svg)
 # aesd-assignments
 This repo contains public starter source code, scripts, and documentation for Advanced Embedded Software Development (ECEN-5713) and Advanced Embedded Linux Development assignments University of Colorado, Boulder.
 
